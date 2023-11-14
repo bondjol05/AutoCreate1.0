@@ -1,0 +1,20 @@
+{
+  "name": "Spotify",
+  "version": "1.0.0",
+  "description": "Prmeium",
+  "main": "start.js",
+  "bin": {
+    "nama-perintah": "./start.js"
+  },
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jsonwebtoken": "^9.0.2",
+    "puppeteer": "^21.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "author": "BONDJOL",
+  "license": "ISC"
+}
